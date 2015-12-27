@@ -1,0 +1,3 @@
+[submodule "ruanyf-webpack-demos"]
+	path = ruanyf-webpack-demos
+	url = https://github.com/ruanyf/webpack-demos.git
