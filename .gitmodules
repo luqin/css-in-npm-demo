@@ -1,6 +1,6 @@
-[submodule "webpack-demos"]
-	path = webpack-demos
-	url = https://github.com/ruanyf/webpack-demos.git
 [submodule "webpack-howto"]
 	path = webpack-howto
 	url = https://github.com/petehunt/webpack-howto
+[submodule "webpack-demos"]
+	path = webpack-demos
+	url = https://github.com/ruanyf/webpack-demos
