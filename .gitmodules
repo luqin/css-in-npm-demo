@@ -4,3 +4,6 @@
 [submodule "webpack-demos"]
 	path = webpack-demos
 	url = https://github.com/ruanyf/webpack-demos
+[submodule "echarts-webpack-starter-kit"]
+	path = echarts-webpack-starter-kit
+	url = https://github.com/luqin/echarts-webpack-starter-kit
