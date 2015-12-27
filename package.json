@@ -4,8 +4,10 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
+    "gh-pages": "gulp publish:examples",
     "lint": "eslint src",
-    "test": "eslint src"
+    "start": "gulp dev",
+    "test": "npm run lint"
   },
   "license": "ISC",
   "dependencies": {
